@@ -2,6 +2,7 @@ angular-captureplus
 ===================
 
 **In progress** Capture+ directives for Angular 1.2
+**Depends on Lodash/Underscore**
 
 # Usage
 
