@@ -2,6 +2,7 @@ var address = ['$timeout',function ($timeout) {
     return {
         transclude: true,
         replace:true,
+        scope:true,
         template: '<div ng-transclude></div>',
         controller: ['$scope', function ($scope) {
             var self = this;
